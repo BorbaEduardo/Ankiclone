@@ -1,0 +1,8 @@
+- [x] 001: Pesquisar algoritmo de repetição espaçada (SM-2).
+- [x] 002: Configurar projeto React + TypeScript.
+- [x] 003: Implementar esquema do banco de dados com Supabase.
+- [x] 004: Criar componentes de frontend (ex: Card, Deck, Review).
+- [x] 005: Implementar lógica de repetição espaçada em TypeScript.
+- [x] 006: Conectar frontend com Supabase (busca/atualização de cards).
+- [ ] 007: Testar funcionalidade de revisão e agendamento.
+- [ ] 008: Criar documentação PDF detalhada.
